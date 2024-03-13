@@ -1,6 +1,7 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "newNote",
+        "text": "newNote text",
+        "id": "8de0d53a-183a-46dc-beaa-a7f67b9ab7e3"
     }
 ]
