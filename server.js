@@ -1,6 +1,7 @@
 const path = require('path');
 const express = require('express');
 const api = require('./routes/index.js');
+
 //
 const PORT = process.env.PORT || 3001;
 const app = express();
@@ -21,10 +22,6 @@ res.sendFile(path.join(__dirname, '/public/index.html'))
 app.get('/notes', (req, res) => 
 res.sendFile(path.join(__dirname, '/public/notes.html'))
 );
-
-app.get('/product', (req, res) => {
-    return res.sendFile(path.join(__dirname, '/public/product.html'))
-})
 
 //listen
 app.listen(PORT, () =>
