@@ -16,7 +16,7 @@
 ## Usage
 - The way to use this application is straightforward. The user will first encounter the homepage for the note-taking app. Upon clicking "Get Started", the user will get redirected to the notes page where they can create, save, and delete notes.
 
-  Heroku deployment link: 
+  Heroku deployment link: https://notetaker-challenge-bccb59fe2a4f.herokuapp.com/
 
   GitHub repository: https://github.com/noe-bee/note-taker-challenge
 
