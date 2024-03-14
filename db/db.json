@@ -1,7 +1,22 @@
 [
     {
-        "title": "Give Dogs a Bath",
-        "text": "I need to give my dogs a bath this weekend\n",
-        "id": "5a2c02d6-f8d8-430c-bcd4-99029ad6fc61"
+        "title": "New Note",
+        "text": "new note text",
+        "id": "7e8d97ae-96ad-4b7a-8a84-183d707943ed"
+    },
+    {
+        "title": "Do HW this weekend",
+        "text": "I need to start on hw.",
+        "id": "fa00bfc0-babb-497b-b88b-fa04e7bfd9ee"
+    },
+    {
+        "title": "Cook Dinner",
+        "text": "Make chicken pasta alfredo",
+        "id": "604ab657-4b22-4a27-8d11-37700a3b2d5e"
+    },
+    {
+        "title": "Presentation Notes",
+        "text": "Read over presentation notes",
+        "id": "520711dc-d2f4-4eab-bdcb-e3d2fab89322"
     }
 ]
